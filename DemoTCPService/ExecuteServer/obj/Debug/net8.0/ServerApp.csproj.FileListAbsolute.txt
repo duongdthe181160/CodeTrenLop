@@ -12,3 +12,18 @@ C:\Users\Tung Duong\source\repos\DemoTCPService\ExecuteServer\obj\Debug\net8.0\r
 C:\Users\Tung Duong\source\repos\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ServerApp.pdb
 C:\Users\Tung Duong\source\repos\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
 C:\Users\Tung Duong\source\repos\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ref\ServerApp.dll
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\bin\Debug\net8.0\ServerApp.exe
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\bin\Debug\net8.0\ServerApp.deps.json
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\bin\Debug\net8.0\ServerApp.dll
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\bin\Debug\net8.0\ServerApp.pdb
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ServerApp.sourcelink.json
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ServerApp.dll
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\obj\Debug\net8.0\refint\ServerApp.dll
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ServerApp.pdb
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+F:\3. Kì 7\PRN222\CodeTrenLop\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ref\ServerApp.dll

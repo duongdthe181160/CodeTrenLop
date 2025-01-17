@@ -17,3 +17,23 @@ F:\3. Kì 7\PRN222\Code Tren Lop\Fetch Data from a URL Using HttpClient\Fetch Da
 F:\3. Kì 7\PRN222\Code Tren Lop\Fetch Data from a URL Using HttpClient\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.pdb
 F:\3. Kì 7\PRN222\Code Tren Lop\Fetch Data from a URL Using HttpClient\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.genruntimeconfig.cache
 F:\3. Kì 7\PRN222\Code Tren Lop\Fetch Data from a URL Using HttpClient\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\ref\Fetch Data from a URL Using HttpClient.dll
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\bin\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.exe
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\bin\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.deps.json
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\bin\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.runtimeconfig.json
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\bin\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.dll
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\bin\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.pdb
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\MainWindow.baml
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\App.g.cs
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient_MarkupCompile.cache
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.g.resources
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.AssemblyInfoInputs.cache
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.AssemblyInfo.cs
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.csproj.CoreCompileInputs.cache
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.sourcelink.json
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.dll
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\refint\Fetch Data from a URL Using HttpClient.dll
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.pdb
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\Fetch Data from a URL Using HttpClient.genruntimeconfig.cache
+F:\3. Kì 7\PRN222\CodeTrenLop\FetchDataFromURL\Fetch Data from a URL Using HttpClient\obj\Debug\net8.0-windows\ref\Fetch Data from a URL Using HttpClient.dll

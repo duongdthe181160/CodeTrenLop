@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\DemoTCPService\\ClientApp\\ClientApp.csproj",
+      "projectUniqueName": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\DemoTCPService\\ClientApp\\ClientApp.csproj",
       "projectName": "ClientApp",
-      "projectPath": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\DemoTCPService\\ClientApp\\ClientApp.csproj",
+      "projectPath": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\DemoTCPService\\ClientApp\\ClientApp.csproj",
       "packagesPath": "C:\\Users\\Tung Duong\\.nuget\\packages\\",
-      "outputPath": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\DemoTCPService\\ClientApp\\obj\\",
+      "outputPath": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\DemoTCPService\\ClientApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tung Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",

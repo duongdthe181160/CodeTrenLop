@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\Fetch Data from a URL Using HttpClient\\Fetch Data from a URL Using HttpClient\\Fetch Data from a URL Using HttpClient.csproj",
+      "projectUniqueName": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\FetchDataFromURL\\Fetch Data from a URL Using HttpClient\\Fetch Data from a URL Using HttpClient.csproj",
       "projectName": "Fetch Data from a URL Using HttpClient",
-      "projectPath": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\Fetch Data from a URL Using HttpClient\\Fetch Data from a URL Using HttpClient\\Fetch Data from a URL Using HttpClient.csproj",
+      "projectPath": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\FetchDataFromURL\\Fetch Data from a URL Using HttpClient\\Fetch Data from a URL Using HttpClient.csproj",
       "packagesPath": "C:\\Users\\Tung Duong\\.nuget\\packages\\",
-      "outputPath": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\Fetch Data from a URL Using HttpClient\\Fetch Data from a URL Using HttpClient\\obj\\",
+      "outputPath": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\FetchDataFromURL\\Fetch Data from a URL Using HttpClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tung Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",

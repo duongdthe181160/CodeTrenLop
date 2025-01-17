@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\UDPServerApp\\UDPServerApp\\UDPServerApp.csproj": {}
+    "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\UDPServerApp\\UDPServerApp\\UDPServerApp.csproj": {}
   },
   "projects": {
-    "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\UDPServerApp\\UDPServerApp\\UDPServerApp.csproj": {
+    "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\UDPServerApp\\UDPServerApp\\UDPServerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\UDPServerApp\\UDPServerApp\\UDPServerApp.csproj",
+        "projectUniqueName": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\UDPServerApp\\UDPServerApp\\UDPServerApp.csproj",
         "projectName": "UDPServerApp",
-        "projectPath": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\UDPServerApp\\UDPServerApp\\UDPServerApp.csproj",
+        "projectPath": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\UDPServerApp\\UDPServerApp\\UDPServerApp.csproj",
         "packagesPath": "C:\\Users\\Tung Duong\\.nuget\\packages\\",
-        "outputPath": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\UDPServerApp\\UDPServerApp\\obj\\",
+        "outputPath": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\UDPServerApp\\UDPServerApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tung Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",

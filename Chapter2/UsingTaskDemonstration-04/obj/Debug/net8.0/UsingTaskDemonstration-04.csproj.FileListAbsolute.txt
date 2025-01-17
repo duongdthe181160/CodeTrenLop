@@ -1,0 +1,30 @@
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\bin\Debug\net8.0\UsingTaskDemonstration-04.exe
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\bin\Debug\net8.0\UsingTaskDemonstration-04.deps.json
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\bin\Debug\net8.0\UsingTaskDemonstration-04.runtimeconfig.json
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\bin\Debug\net8.0\UsingTaskDemonstration-04.dll
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\bin\Debug\net8.0\UsingTaskDemonstration-04.pdb
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.AssemblyInfoInputs.cache
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.AssemblyInfo.cs
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.csproj.CoreCompileInputs.cache
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.sourcelink.json
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.dll
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\refint\UsingTaskDemonstration-04.dll
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.pdb
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.genruntimeconfig.cache
+D:\PRN222\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\ref\UsingTaskDemonstration-04.dll
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\bin\Debug\net8.0\UsingTaskDemonstration-04.exe
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\bin\Debug\net8.0\UsingTaskDemonstration-04.deps.json
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\bin\Debug\net8.0\UsingTaskDemonstration-04.runtimeconfig.json
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\bin\Debug\net8.0\UsingTaskDemonstration-04.dll
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\bin\Debug\net8.0\UsingTaskDemonstration-04.pdb
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.GeneratedMSBuildEditorConfig.editorconfig
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.AssemblyInfoInputs.cache
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.AssemblyInfo.cs
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.csproj.CoreCompileInputs.cache
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.sourcelink.json
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.dll
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\refint\UsingTaskDemonstration-04.dll
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.pdb
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\UsingTaskDemonstration-04.genruntimeconfig.cache
+F:\3. Kì 7\PRN222\CodeTrenLop\Chapter2\UsingTaskDemonstration-04\obj\Debug\net8.0\ref\UsingTaskDemonstration-04.dll

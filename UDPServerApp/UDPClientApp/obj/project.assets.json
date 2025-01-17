@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\UDPServerApp\\UDPClientApp\\UDPClientApp.csproj",
+      "projectUniqueName": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\UDPServerApp\\UDPClientApp\\UDPClientApp.csproj",
       "projectName": "UDPClientApp",
-      "projectPath": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\UDPServerApp\\UDPClientApp\\UDPClientApp.csproj",
+      "projectPath": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\UDPServerApp\\UDPClientApp\\UDPClientApp.csproj",
       "packagesPath": "C:\\Users\\Tung Duong\\.nuget\\packages\\",
-      "outputPath": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\UDPServerApp\\UDPClientApp\\obj\\",
+      "outputPath": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\UDPServerApp\\UDPClientApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tung Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\DemoTCPService\\ExecuteServer\\ServerApp.csproj": {}
+    "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\DemoTCPService\\ExecuteServer\\ServerApp.csproj": {}
   },
   "projects": {
-    "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\DemoTCPService\\ExecuteServer\\ServerApp.csproj": {
+    "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\DemoTCPService\\ExecuteServer\\ServerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\DemoTCPService\\ExecuteServer\\ServerApp.csproj",
+        "projectUniqueName": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\DemoTCPService\\ExecuteServer\\ServerApp.csproj",
         "projectName": "ServerApp",
-        "projectPath": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\DemoTCPService\\ExecuteServer\\ServerApp.csproj",
+        "projectPath": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\DemoTCPService\\ExecuteServer\\ServerApp.csproj",
         "packagesPath": "C:\\Users\\Tung Duong\\.nuget\\packages\\",
-        "outputPath": "F:\\3. Kì 7\\PRN222\\Code Tren Lop\\DemoTCPService\\ExecuteServer\\obj\\",
+        "outputPath": "F:\\3. Kì 7\\PRN222\\CodeTrenLop\\DemoTCPService\\ExecuteServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tung Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
