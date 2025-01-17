@@ -1,0 +1,14 @@
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\bin\Debug\net8.0\UDPClientApp.exe
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\bin\Debug\net8.0\UDPClientApp.deps.json
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\bin\Debug\net8.0\UDPClientApp.runtimeconfig.json
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\bin\Debug\net8.0\UDPClientApp.dll
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\bin\Debug\net8.0\UDPClientApp.pdb
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\obj\Debug\net8.0\UDPClientApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\obj\Debug\net8.0\UDPClientApp.AssemblyInfoInputs.cache
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\obj\Debug\net8.0\UDPClientApp.AssemblyInfo.cs
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\obj\Debug\net8.0\UDPClientApp.csproj.CoreCompileInputs.cache
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\obj\Debug\net8.0\UDPClientApp.dll
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\obj\Debug\net8.0\refint\UDPClientApp.dll
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\obj\Debug\net8.0\UDPClientApp.pdb
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\obj\Debug\net8.0\UDPClientApp.genruntimeconfig.cache
+F:\3. Kì 7\PRN222\Code Tren Lop\UDPServerApp\UDPClientApp\obj\Debug\net8.0\ref\UDPClientApp.dll

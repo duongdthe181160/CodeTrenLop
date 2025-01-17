@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPServerApp", "UDPServerApp\UDPServerApp.csproj", "{40773492-88A2-4956-A221-D3F48F3F9380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPClientApp", "UDPClientApp\UDPClientApp.csproj", "{FACD4722-63D0-4255-8643-F084E1EA8CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40773492-88A2-4956-A221-D3F48F3F9380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40773492-88A2-4956-A221-D3F48F3F9380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40773492-88A2-4956-A221-D3F48F3F9380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40773492-88A2-4956-A221-D3F48F3F9380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FACD4722-63D0-4255-8643-F084E1EA8CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACD4722-63D0-4255-8643-F084E1EA8CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACD4722-63D0-4255-8643-F084E1EA8CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACD4722-63D0-4255-8643-F084E1EA8CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CCC666A-55DA-4660-B4C8-A77CB9E7E7E2}
+	EndGlobalSection
+EndGlobal

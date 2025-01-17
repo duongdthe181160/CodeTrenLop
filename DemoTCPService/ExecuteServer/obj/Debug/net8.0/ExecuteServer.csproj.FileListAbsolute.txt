@@ -1,0 +1,4 @@
+C:\Users\Tung Duong\source\repos\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ExecuteServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tung Duong\source\repos\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ExecuteServer.AssemblyInfoInputs.cache
+C:\Users\Tung Duong\source\repos\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ExecuteServer.AssemblyInfo.cs
+C:\Users\Tung Duong\source\repos\DemoTCPService\ExecuteServer\obj\Debug\net8.0\ExecuteServer.csproj.CoreCompileInputs.cache
