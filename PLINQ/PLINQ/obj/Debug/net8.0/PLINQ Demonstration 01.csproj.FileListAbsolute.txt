@@ -12,3 +12,18 @@ C:\Users\Admin\source\repos\PLINQ\PLINQ\obj\Debug\net8.0\refint\PLINQ Demonstrat
 C:\Users\Admin\source\repos\PLINQ\PLINQ\obj\Debug\net8.0\PLINQ Demonstration 01.pdb
 C:\Users\Admin\source\repos\PLINQ\PLINQ\obj\Debug\net8.0\PLINQ Demonstration 01.genruntimeconfig.cache
 C:\Users\Admin\source\repos\PLINQ\PLINQ\obj\Debug\net8.0\ref\PLINQ Demonstration 01.dll
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\bin\Debug\net8.0\PLINQ Demonstration 01.exe
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\bin\Debug\net8.0\PLINQ Demonstration 01.deps.json
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\bin\Debug\net8.0\PLINQ Demonstration 01.runtimeconfig.json
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\bin\Debug\net8.0\PLINQ Demonstration 01.dll
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\bin\Debug\net8.0\PLINQ Demonstration 01.pdb
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\obj\Debug\net8.0\PLINQ Demonstration 01.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\obj\Debug\net8.0\PLINQ Demonstration 01.AssemblyInfoInputs.cache
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\obj\Debug\net8.0\PLINQ Demonstration 01.AssemblyInfo.cs
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\obj\Debug\net8.0\PLINQ Demonstration 01.csproj.CoreCompileInputs.cache
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\obj\Debug\net8.0\PLINQ Demonstration 01.sourcelink.json
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\obj\Debug\net8.0\PLINQ Demonstration 01.dll
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\obj\Debug\net8.0\refint\PLINQ Demonstration 01.dll
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\obj\Debug\net8.0\PLINQ Demonstration 01.pdb
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\obj\Debug\net8.0\PLINQ Demonstration 01.genruntimeconfig.cache
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\PLINQ\obj\Debug\net8.0\ref\PLINQ Demonstration 01.dll

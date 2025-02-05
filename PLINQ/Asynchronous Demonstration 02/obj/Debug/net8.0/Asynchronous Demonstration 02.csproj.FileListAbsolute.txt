@@ -1,0 +1,15 @@
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\bin\Debug\net8.0\Asynchronous Demonstration 02.exe
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\bin\Debug\net8.0\Asynchronous Demonstration 02.deps.json
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\bin\Debug\net8.0\Asynchronous Demonstration 02.runtimeconfig.json
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\bin\Debug\net8.0\Asynchronous Demonstration 02.dll
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\bin\Debug\net8.0\Asynchronous Demonstration 02.pdb
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\obj\Debug\net8.0\Asynchronous Demonstration 02.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\obj\Debug\net8.0\Asynchronous Demonstration 02.AssemblyInfoInputs.cache
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\obj\Debug\net8.0\Asynchronous Demonstration 02.AssemblyInfo.cs
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\obj\Debug\net8.0\Asynchronous Demonstration 02.csproj.CoreCompileInputs.cache
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\obj\Debug\net8.0\Asynchronous Demonstration 02.sourcelink.json
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\obj\Debug\net8.0\Asynchronous Demonstration 02.dll
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\obj\Debug\net8.0\refint\Asynchronous Demonstration 02.dll
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\obj\Debug\net8.0\Asynchronous Demonstration 02.pdb
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\obj\Debug\net8.0\Asynchronous Demonstration 02.genruntimeconfig.cache
+E:\3. Kì 7\PRN222\CodeTrenLop\PLINQ\Asynchronous Demonstration 02\obj\Debug\net8.0\ref\Asynchronous Demonstration 02.dll
