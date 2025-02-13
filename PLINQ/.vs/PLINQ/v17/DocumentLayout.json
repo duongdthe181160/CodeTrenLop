@@ -45,8 +45,7 @@
               "ToolTip": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\PLINQ\\Asynchronous Demonstration 03\\MainWindow.xaml",
               "RelativeToolTip": "Asynchronous Demonstration 03\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-05T03:59:20.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T03:59:20.951Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Asynchronous Demonstration 02\\Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAIwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T03:58:03.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T03:58:03.127Z"
             },
             {
               "$type": "Document",
@@ -84,12 +82,7 @@
               "RelativeToolTip": "Asynchronous Demonstration 01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T03:56:51.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-02-05T03:56:51.643Z"
             },
             {
               "$type": "Document",
@@ -101,8 +94,7 @@
               "RelativeToolTip": "PLINQ Demonstration 02\\Program.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAIwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T03:49:52.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T03:49:52.05Z"
             },
             {
               "$type": "Document",
@@ -115,6 +107,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T03:37:36.379Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

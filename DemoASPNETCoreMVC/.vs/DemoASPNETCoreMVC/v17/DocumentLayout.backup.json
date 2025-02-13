@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|e:\\3. k\u00EC 7\\prn222\\codetrenlop\\demoaspnetcoremvc\\demoaspnetcoremvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|solutionrelative:demoaspnetcoremvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|e:\\3. k\u00EC 7\\prn222\\codetrenlop\\demoaspnetcoremvc\\demoaspnetcoremvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|solutionrelative:demoaspnetcoremvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|e:\\3. k\u00EC 7\\prn222\\codetrenlop\\demoaspnetcoremvc\\demoaspnetcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|solutionrelative:demoaspnetcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|e:\\3. k\u00EC 7\\prn222\\codetrenlop\\demoaspnetcoremvc\\demoaspnetcoremvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|solutionrelative:demoaspnetcoremvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|e:\\3. k\u00EC 7\\prn222\\codetrenlop\\demoaspnetcoremvc\\demoaspnetcoremvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|solutionrelative:demoaspnetcoremvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|e:\\3. k\u00EC 7\\prn222\\codetrenlop\\demoaspnetcoremvc\\demoaspnetcoremvc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|solutionrelative:demoaspnetcoremvc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|e:\\3. k\u00EC 7\\prn222\\codetrenlop\\demoaspnetcoremvc\\demoaspnetcoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|solutionrelative:demoaspnetcoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|e:\\3. k\u00EC 7\\prn222\\codetrenlop\\demoaspnetcoremvc\\demoaspnetcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|solutionrelative:demoaspnetcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|e:\\3. k\u00EC 7\\prn222\\codetrenlop\\demoaspnetcoremvc\\demoaspnetcoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|solutionrelative:demoaspnetcoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|e:\\3. k\u00EC 7\\prn222\\codetrenlop\\demoaspnetcoremvc\\demoaspnetcoremvc\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|solutionrelative:demoaspnetcoremvc\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|e:\\3. k\u00EC 7\\prn222\\codetrenlop\\demoaspnetcoremvc\\demoaspnetcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52929DC4-D6B1-4BEA-B3ED-8F6168D3B3FF}|DemoASPNETCoreMVC\\DemoASPNETCoreMVC.csproj|solutionrelative:demoaspnetcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DemoASPNETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DemoASPNETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T09:45:10.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DemoASPNETCoreMVC\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "DemoASPNETCoreMVC\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T09:44:35.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "DemoASPNETCoreMVC\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "DemoASPNETCoreMVC\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T09:44:04.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoASPNETCoreMVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DemoASPNETCoreMVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T09:42:46.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DemoASPNETCoreMVC\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DemoASPNETCoreMVC\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:30:59.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "DemoASPNETCoreMVC\\Views\\Product\\Details.cshtml",
+              "ToolTip": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "DemoASPNETCoreMVC\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T09:43:32.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "DemoASPNETCoreMVC\\Program.cs",
+              "ToolTip": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Program.cs",
+              "RelativeToolTip": "DemoASPNETCoreMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:21:00.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "DemoASPNETCoreMVC\\Models\\HomeModel.cs",
+              "ToolTip": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Models\\HomeModel.cs",
+              "RelativeToolTip": "DemoASPNETCoreMVC\\Models\\HomeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:11:50.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DemoASPNETCoreMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DemoASPNETCoreMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:12:28.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoASPNETCoreMVC\\appsettings.json",
+              "ToolTip": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\appsettings.json",
+              "RelativeToolTip": "DemoASPNETCoreMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T08:57:19.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoASPNETCoreMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\3. K\u00EC 7\\PRN222\\CodeTrenLop\\DemoASPNETCoreMVC\\DemoASPNETCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DemoASPNETCoreMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T04:13:06.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
